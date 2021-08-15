@@ -1,5 +1,5 @@
 
-# Predicting Music Artists' Concert Sales  using YouTube and Spotify Data
+# Predicting Music Artists' Concert Sales Using YouTube and Spotify Data
 
 Our group aims at analyzing and predicting music artists' 
 concert sales by using data from different sources like 
