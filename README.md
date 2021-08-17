@@ -1,4 +1,6 @@
 
+![Logo](https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80)
+
 # Predicting Music Artists' Concert Sales Using YouTube and Spotify Data
 
 Our group aims at analyzing and predicting music artists' 
